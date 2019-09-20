@@ -35,3 +35,13 @@ else:
 print("False")
 
 # 输出语句过长通过（）来换行
+
+
+# 课后测验
+x =input("输入姓名")
+y = float(input("输入身高"))
+z = float(input("输入体重"))
+
+BIM = z * z / y
+
+print("BIM: %f" %BIM )
